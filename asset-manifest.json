@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react/blissway/static/css/main.b1404ecb.chunk.css",
+    "main.js": "/react/blissway/static/js/main.042f515e.chunk.js",
+    "main.js.map": "/react/blissway/static/js/main.042f515e.chunk.js.map",
+    "runtime-main.js": "/react/blissway/static/js/runtime-main.37c0a0eb.js",
+    "runtime-main.js.map": "/react/blissway/static/js/runtime-main.37c0a0eb.js.map",
+    "static/css/2.23154d62.chunk.css": "/react/blissway/static/css/2.23154d62.chunk.css",
+    "static/js/2.9c7b5b03.chunk.js": "/react/blissway/static/js/2.9c7b5b03.chunk.js",
+    "static/js/2.9c7b5b03.chunk.js.map": "/react/blissway/static/js/2.9c7b5b03.chunk.js.map",
+    "static/js/3.97b7be9c.chunk.js": "/react/blissway/static/js/3.97b7be9c.chunk.js",
+    "static/js/3.97b7be9c.chunk.js.map": "/react/blissway/static/js/3.97b7be9c.chunk.js.map",
+    "index.html": "/react/blissway/index.html",
+    "static/css/2.23154d62.chunk.css.map": "/react/blissway/static/css/2.23154d62.chunk.css.map",
+    "static/css/main.b1404ecb.chunk.css.map": "/react/blissway/static/css/main.b1404ecb.chunk.css.map",
+    "static/js/2.9c7b5b03.chunk.js.LICENSE.txt": "/react/blissway/static/js/2.9c7b5b03.chunk.js.LICENSE.txt",
+    "static/media/Captura_Pantalla.2a77987f.png": "/react/blissway/static/media/Captura_Pantalla.2a77987f.png",
+    "static/media/Group_17.9bed478a.png": "/react/blissway/static/media/Group_17.9bed478a.png",
+    "static/media/Path_46.23f594e4.png": "/react/blissway/static/media/Path_46.23f594e4.png",
+    "static/media/WAL.41d4c63f.png": "/react/blissway/static/media/WAL.41d4c63f.png",
+    "static/media/dashboard_3.3e31f810.png": "/react/blissway/static/media/dashboard_3.3e31f810.png",
+    "static/media/democratizing_speed_2.192696a1.png": "/react/blissway/static/media/democratizing_speed_2.192696a1.png",
+    "static/media/how-blissway.78145aac.jpg": "/react/blissway/static/media/how-blissway.78145aac.jpg",
+    "static/media/p3_.314a216c.png": "/react/blissway/static/media/p3_.314a216c.png",
+    "static/media/solving.18b3cb81.png": "/react/blissway/static/media/solving.18b3cb81.png",
+    "static/media/video-1.aaac8834.mp4": "/react/blissway/static/media/video-1.aaac8834.mp4",
+    "static/media/video-thumb .b4f22b2b.jpg": "/react/blissway/static/media/video-thumb .b4f22b2b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c0a0eb.js",
+    "static/css/2.23154d62.chunk.css",
+    "static/js/2.9c7b5b03.chunk.js",
+    "static/css/main.b1404ecb.chunk.css",
+    "static/js/main.042f515e.chunk.js"
+  ]
+}
